@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502466044113",
+    "project_id": "testprojholyw",
+    "storage_bucket": "testprojholyw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502466044113:android:8ffded9d72c7978546e5f0",
+        "android_client_info": {
+          "package_name": "com.D4.TestProjHolyW"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502466044113-19rn3vpkg2bsfimafpu6uag5j5l5h780.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDuffRAeigyYU5XC-ECPs8sFzOteq3tko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502466044113-19rn3vpkg2bsfimafpu6uag5j5l5h780.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
